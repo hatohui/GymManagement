@@ -1,0 +1,10 @@
+E93456|Rowing Machine|Cardio Machine|12|NEW
+E65321|Kettlebells|Strength Training|30|MODERATE
+E78234|Smith Machine|Strength Training|5|NEW
+E98234|Stair Stepper|Cardio Machine|7|BROKEN
+E47392|Leg Press|Strength Training|6|MODERATE
+E36215|Pull Up Bar|Bodyweight Training|20|NEW
+E14783|Medicine Balls|Strength Training|25|NEW
+E89567|Resistance Bands|Flexibility Training|40|MODERATE
+E57341|Lat Pulldown|Strength Training|10|BROKEN
+E19234|Spin Bike|Cardio Machine|18|NEW
